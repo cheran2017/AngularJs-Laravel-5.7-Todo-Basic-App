@@ -1,5 +1,7 @@
 <p align="center"><img src="home.png"></p>
+
 ## Steps
+
 - Download the source
 - run Composer Install
 - run php artisan migrate
